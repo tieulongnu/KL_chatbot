@@ -1,4 +1,4 @@
-ĐHGHN có mấy KTX dành cho sinh viên ?
+ĐHGHN có mấy Kí túc xá dành cho sinh viên ?
 Trong quá trình thi kết thúc học phần, sinh viên sẽ bị Khiển trách khi nào?
 ĐHQGHN hỗ trợ học bổng như thế nào đối với các nghiên cứu sinh chuyển tiếp từ Cử nhân?
 Hiện nay, trong các trường đại học của ĐHGQHN, sinh viên đăng ký lớp học phần bằng cách?
@@ -148,13 +148,13 @@ Cách tính điểm đánh giá bộ phận, điểm môn học quy định: đi
 Một trong những tiêu chí đánh giá kết quả học tập của sinh viên là: "Khối lượng kiến thức tích lũy là tổng số tín chỉ của những môn học đã được đánh giá loại đạt tính từ đầu khóa học.", đúng hay sai?
 "Kết quả đánh giá môn học giáo dục quốc phòng - an ninh, giáo dục thể chất, kỹ năng mềm được tính vào điểm trung bình chung học kỳ và điểm trung bình chung tích lũy", đúng hay sai?
 "Loại học lực là căn cứ để xác định khối lượng học tập sinh viên được đăng ký trong học kỳ kế tiếp. Trường hợp loại học lực của sinh viên được xác định vào thời điểm sau khi sinh viên đã đăng ký môn học, sinh viên phải rút bớt môn học trong giới hạn khối lượng quy định.", đúng hay sai?
-"Sinh viên xếp loại Xuất sắc có điểm trung bình chung tích lũy từ 3,60 đến 4,00", đúng hay sai?
+"Sinh viên xếp loại Xuất sắc có điểm trung bình chung tích lũy từ 3.60 đến 4.00", đúng hay sai?
 "Sinh viên xếp loại Yếu có điểm trung bình chung tích lũy đạt dưới 2,00 nhưng chưa thuộc trường hợp bị buộc thôi học."
 "Chương trình đào tạo chuẩn được thiết kế từ 120 đến 140 tín chỉ đối với đào tạo cử nhân, 140 đến 160 tín chỉ đối với đào tạo kĩ sư, 155 đến 175 tín chỉ đối với đào tạo dược sĩ, 205 đến 225 tín chỉ đối với đào tạo bác sĩ", đúng hay sai ?
 PGS.TS Toán học Nguyễn Sum (Trường Đại học Quy Nhơn) đã trở thành một trong hai chủ nhân mới của Giải thưởng Tạ Quang Bửu năm 2017, là nghiên cứu sinh từ năm 1992 của trường nào?
 Việc đạt đầu ra chuẩn B1 trở lên về ngoại ngữ có áp dụng với sinh viên thuộc ĐHQGHN không?
 Tuần học về Công tác chính trị đầu năm cho sinh viên có nằm trong Khung chương trình đào tạo cho sinh viên của ĐHQGHN không?
-Sinh viên người dân tộc Kinh có được đăng kí ở KTX hay không?
+Sinh viên người dân tộc Kinh có được đăng kí ở Kí túc xá hay không?
 "Sinh viên xếp loại khá có điểm trung bình chung tích lũy từ 3,60 đến 4,00", đúng hay sai?
 "Sinh viên tàng trữ, lưu hành, phát tán văn hóa phẩm đồ trụy sẽ bị khiển trách, cảnh cáo? Đúng hay sai
 Việc sinh viên tham gia sinh hoạt tại các Câu lạc bộ là tự nguyện. Đúng hay sai?
@@ -305,7 +305,6 @@ Viện Tin học – Điện tử thuộc Đại học Tổng hợp Hà Nội đ
 Trung tâm Mác – Lênin thuộc Đại học Tổng hợp Hà Nội được thành lập vào năm nào?
 Đại học Tổng hợp Hà Nội chính thức mở lại chuyên ngành Ngữ văn Trung Quốc vào thời gian nào?
 Khoa Báo chí – Trường Đại học Tổng hợp Hà Nội chính thức đi vào hoạt động từ năm nào?
-Tạp chí khoa học – Đại học Tổng hợp Hà Nội được Bộ Văn hóa cấp phép hoạt động vào ngày/tháng/năm nào?
 Trường Đại học Tổng hợp Hà Nội thành lập thêm khoa Xã hội học – Tâm lý học vào năm nào?
 Tính đến năm học 1992 – 1993, trường Đại học Tổng hợp đã có bao nhiêu khoa trực thuộc?
 Năm học nào được gọi là  "năm giáo trình " của Đại học Tổng hợp?
@@ -318,20 +317,9 @@ Năm 1999, Khoa Kinh tế – ĐHQGHN được thành lập dựa trên cơ sở
 Khoa Sau đại học – ĐHQGHN chính thức ra đời vào ngày/tháng/năm nào?
 Viện Công nghệ thông tin – ĐHQGHN được thành lập vào thời gian nào?
 Cơ cấu tổ chức của Trung tâm Giáo dục Quốc phòng – ĐHQGHN gồm bao nhiêu khoa?
-Cơ cấu tổ chức của Trung tâm Giáo dục Quốc phòng – ĐHQGHN gồm 02 khoa, đó là:
-Nội quy của Đại học Đông Dương (tiền thân ĐHQGHN) được ban hành vào thời gian nào?
- "Đại học Đông Dương (tiền thân ĐHQGHN) ngày đầu khai giảng có bao nhiêu sinh viên "
+Cơ cấu tổ chức của Trung tâm Giáo dục Quốc phòng – ĐHQGHN gồm 02 khoa, đó là?
 Từ sau năm 1917 đến trước thế chiến thứ hai, Đại học Đông Dương (tiền thân ĐHQGHN) có bào nhiêu trường đại học thành viên?
 Trong năm học đầu tiên, Đại học Quốc gia Việt Nam có bao nhiêu sinh viên đăng kí học?
 Môn học nào của Đại học Quốc gia Việt Nam do Bộ Giáo dục trực tiếp chỉ đạo về nội dung, hình thức, thời gian học tập?
-Trường Đại học Sư phạm Ngoại ngữ Hà Nội được phát triển trên cơ sở Khoa … của trường Đại học Sư phạm Hà Nội "
-Trường Đại học Sư phạm Ngoại ngữ Hà Nội được phát triển trên cơ sở Khoa Ngoại ngữ của trường Đại học Sư phạm Hà Nội vào năm nào?
-Năm 2000, trường … tách khỏi cơ cấu tổ chức ĐHQGHN trở thành trường đại học trực thuộc Bộ Giáo dục và Đào tạo "
-Thủ tướng chính phủ Phan Văn Khải đã chính thức động thổ xây dựng ĐHQGHN tại Hòa Lạc vào thời gian nào?
-Viện Việt Nam học và Khoa học phát triển – ĐHQGHN được chính thức thành lâp năm nào?
-Viện Việt Nam học và Khoa học phát triển – ĐHQGHN được thành lập đã trở thành Viên nghiên cứu cấp thành viên thứ mấy của ĐHQGHN?
-Thủ tướng Chính phủ đã ký Quyết định thành lập Viện Trần Nhân Tông vào ngày/tháng/năm nào?
-Ai là người đã ký Quyết định thành lập Viện Trần Nhân Tông vào ngày 01/09/2016?
-Viện Tài nguyên và Môi trường – ĐHQGHN được thành lập trên cơ sở nào?
-Ngày 17/11/2016, Thủ tướng chính phủ ký quyết định thành lập…
-Năm 1961, theo quyết định của Bộ Giáo dục, Khoa Tự nhiên, trường Đại học Tổng hợp được tách ra thành hai khoa là
+Trường Đại học Sư phạm Ngoại ngữ Hà Nội được phát triển trên cơ sở Khoa nào của trường Đại học Sư phạm Hà Nội "
+
