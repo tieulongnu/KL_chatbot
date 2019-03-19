@@ -1,16 +1,16 @@
 ĐHGHN có mấy Kí_túc_xá dành cho sinh_viên ?
-Trong quá_trình thi kết_thúc học_phần , sinh_viên sẽ bị Khiển_trách khi_nào ?
-ĐHQGHN hỗ_trợ học_bổng như thế_nào đối_với các nghiên_cứu_sinh chuyển_tiếp từ Cử_nhân ?
+Trong quá_trình thi kết_thúc học_phần , sinh_viên sẽ bị khiển_trách khi_nào ?
+ĐHQGHN hỗ_trợ học_bổng như thế_nào đối_với các nghiên_cứu_sinh chuyển_tiếp từ cử_nhân ?
 Hiện_nay , trong các trường đại_học của ĐHGQHN , sinh_viên đăng_ký lớp học_phần bằng cách ?
 Tại các đơn_vị đào_tạo tại ĐHQGHN , mỗi kì học , sinh_viên phải đăng_ký tối_thiểu bao_nhiêu tín_chỉ đối_với chương_trình đào_tạo chuẩn ?
-Trong quá_trình thi kết_thúc học_phần , sau khi đã bóc đề thi , phát_hiện sinh_viên mang trong người những vật_dụng không được phép , sinh_viên sẽ phải nhận hình_thức kỷ_luật nào sau_đây ?
+Trong quá_trình thi kết_thúc học_phần , sau khi đã bóc đề_thi , phát_hiện sinh_viên mang trong người những vật_dụng không được phép , sinh_viên sẽ phải nhận hình_thức kỷ_luật nào sau_đây ?
 Sinh_viên sẽ bị cảnh_cáo học_vụ khi_nào ?
 Sinh_viên cử_nhân khoa_học tài_năng được đào_tạo tại đơn_vị nào của ĐHQGHN ?
 Sinh_viên ĐHQGHN được trang_bị những kĩ_năng bổ_trợ tại đơn_vị nào thuộc ĐHQGHN ?
 Hình_thức đăng_ký môn_học của sinh_viên thuộc ĐHQGHN là ?
 Sau khi đăng_ký môn_học xong , sinh_viên tại ĐHQGHN có được phép thay_đổi hoặc hủy học_phần đã đăng_ký hay không ?
 Khi chép bài của người khác trong giờ thi kết_thúc học_phần , sinh_viên sẽ bị hình_thức kỉ_luật nào sau_đây ?
-Chuẩn đầu_ra Tiếng Anh của sinh_viên theo học tại các đơn_vị đào_tạo thuộc ĐHQGHN là ?
+Chuẩn đầu_ra Tiếng_Anh của sinh_viên theo học tại các đơn_vị đào_tạo thuộc ĐHQGHN là ?
 Trong chương_trình học , sinh_viên ĐHQGHN phải hoàn_thành bao_nhiêu tín_chỉ về giáo_dục thể_chất ?
 Thời_gian đăng_ký học_phần của sinh_viên thuộc ĐHQGHN được quy_định như thế_nào ?
 Đối_với các học_phần đạt điểm nào , sinh_viên được đăng_ký học_lại học_phần đó hoặc đổi sang học_phần khác ( nếu là học_phần tự chọn có điều_kiện ) để cải_thiện điểm trung_bình chung tích_lũy
@@ -23,16 +23,16 @@ Cuộc vận_động " Xây_dựng phong_cách sinh_viên ĐHQGHN " do Hội_Sin
 Đề_án " Ba thực_hiện " do đơn_vị nào thực_hiện ?
 Hội Sinh_viên ĐHQGHN hiện_có bao_nhiêu Câu_lạc_bộ sinh_viên ?
 Trong giai_đoạn 2013 - 2018 , Đoàn Thanh_niên , Hội_Sinh_viên ĐHQGHN đã xây_dựng thành_công bao_nhiêu công trình thanh_niên ?
-Trong hai ngày 02-03 / 6/20 17 Đoàn TNCS Hồ Chí Minh ĐHQGHN đã tổ_chức Đại_hội đại_biểu lần thứ mấy ?
-Trong hai ngày 09-10 / 6/20 18 Hội_Sinh_viên Việt_Nam ĐHQGHN đã tiến_hành tổ_chức Đại_hội khóa mấy ?
+Trong hai ngày 02-03/6/2017 Đoàn TNCS Hồ Chí Minh ĐHQGHN đã tổ_chức Đại_hội đại_biểu lần thứ mấy ?
+Trong hai ngày 09-10/6/2018 Hội_Sinh_viên Việt_Nam ĐHQGHN đã tiến_hành tổ_chức Đại_hội khóa mấy ?
 Trong nhiệm_kì 2013 - 2018 , có bao_nhiêu sinh_viên ĐHQGHN được trao danh_hiệu " Sinh_viên 5 tốt " cấp Trung_ương
-Cuộc_thi Olympic tiếng Anh không_chuyên toàn_quốc lần thứ 9 do Đoàn Trường ĐH Ngoại_ngữ , ĐHQGHN đã tổ_chức với chủ_đề là gì ?
+Cuộc_thi Olympic Tiếng_Anh không_chuyên toàn_quốc lần thứ 9 do Đoàn Trường ĐH Ngoại_ngữ , ĐHQGHN đã tổ_chức với chủ_đề là gì ?
 Quỹ học_bổng K - T là tên_gọi tắt của Quỹ Hỗ_trợ tài_năng trẻ của ĐHQGHN mang_tên ?
 Học_bổng " Tiếp_sức đến trường " là học_bổng do tổ_chức , đơn_vị nào tài_trợ ?
 Đơn_vị đăng_cai tổ_chức cuộc_thi tìm_hiểu tư_tưởng Hồ Chí Minh " Con_đường ánh_sáng lần thứ III " ( năm 2018 ) là đơn_vị nào ?
 Đội thi nào giành giải Nhất cuộc_thi Tìm_hiểu tư_tưởng Hồ Chí Minh " Con_đường ánh_sáng lần thứ III " do Đoàn Thanh_niên ĐHQGHN tổ_chức năm 2018 ?
-Nữ_sinh giành được giải_thưởng Gương_mặt trẻ Việt_Nam tiêu_biểu năm 2016 là sinh_viên của Trường / Khoa nào ?
-Quán_quân cuộc_thi " Tìm_kiếm tài năng học_sinh - sinh_viên ĐHQGHN " năm 2017 đến từ_trường / Khoa nào ?
+Nữ_sinh giành được giải_thưởng Gương_mặt trẻ Việt_Nam tiêu_biểu năm 2016 là sinh_viên của Trường nào ?
+Quán_quân cuộc_thi " Tìm_kiếm tài năng học_sinh - sinh_viên ĐHQGHN " năm 2017 đến từ trường nào ?
 2013 - 2018 của Hội_Sinh_viên ĐHQGHN , có bao_nhiêu sinh_viên ĐHQGHN đạt được giải_thưởng Sao Tháng_Giêng ?
 Giải_thưởng Sao Tháng_Giêng là giải_thưởng của đơn_vị , tổ_chức nào ?
 Giải_thưởng Sao Tháng_Giêng của Hội_Sinh_viên Việt_Nam là giải_thưởng dành cho đối_tượng nào ?
@@ -59,7 +59,7 @@ Sinh_viên năm thứ_tư có khả_năng bị cảnh_cáo học_vụ khi_nào ?
 Đối_tượng nào sau_đây được miễn học toàn_bộ học_phần giáo_dục thể_chất
 " Sinh_viên học chương_trình đào_tạo chất_lượng cao bị chuyển sang chương_trình chất_lượng chuẩn khi điểm trung_bình chung các học_phần tính tới thời_điểm xét dưới 2,0 " , Đúng hay sai ?
 Sinh_viên bị khiển_trách trong phòng thi ( khi thi ) thì sẽ bị trừ bao_nhiêu % số điểm của học_phần đó ?
-Trong phòng thi sinh_viên mang theo những vật_dụng không được phép khi đã bóc đề thi thì sẽ phải chịu hình_thức kỉ_luật nào sau_đây ?
+Trong phòng thi sinh_viên mang theo những vật_dụng không được phép khi đã bóc đề_thi thì sẽ phải chịu hình_thức kỉ_luật nào sau_đây ?
 Sinh_viên thi hộ hoặc nhờ người thi hộ nếu vi_phạm lần thứ nhất sẽ bị kỉ_luật ở mức nào sau_đây ?
 Sinh_viên có những hành_vi như viết bài , lưu_giữ hoặc tuyên_truyền phản_ánh thiếu trung_thực dưới mọi hình_thức ảnh_hưởng đến uy_tín và thương_hiệu của ĐHQGHN ( với vi_phạm lần đầu_tiên ) sẽ phải chịu hình_thức kỉ_luật nào sau_đây ?
 Sinh_viên có được đăng_kí học ở trường khác trong ĐHQGHN không ?
@@ -128,7 +128,7 @@ Sinh_viên được xét tốt_nghiệp đối_với chương_trình đào_tạo
 " Sinh_viên không trung_thực và có hành_vi gian_lận trong nghiên_cứu khoa_học , làm tiểu_luận , khóa_luận , đồ_án tốt_nghiệp " sẽ bị kỷ_luật từ mức :
 GS. Ngô Bảo Châu – cựu_học_sinh của ĐHQGHN đã đạt giải_thưởng cao_quý nhất cho những người làm Toán trên thế_giới đó là Huy_chương Fields vào năm ?
 Sinh_viên bị cảnh_cáo trong phòng thi khi thi học_phần thì sẽ bị :
-Câu_lạc_bộ Khiếm_thính là CLB của Trường / Khoa nào ?
+Câu_lạc_bộ Khiếm_thính là CLB của Trường nào ?
 Tiêu_chuẩn tình_nguyện tốt trong nhóm tiêu_chuẩn của danh_hiệu Sinh_viên 5 tốt cấp Trung_ương quy_định sinh_viên phải tham_gia ít_nhất mấy ngày tình_nguyện / năm ?
 Sứ_mệnh của Trung_tâm Hỗ_trợ sinh_viên , ĐHQGHN là gì ?
 Chủ_đề Tháng Thanh_niên năm 2018 được Trung_ương Đoàn lựa_chọn là ?
@@ -148,7 +148,7 @@ Cách tính điểm đánh_giá bộ_phận , điểm môn_học quy_định : �
 Một trong những tiêu_chí đánh_giá kết quả học_tập của sinh_viên là : " Khối_lượng kiến_thức tích_lũy là tổng_số tín_chỉ của những môn_học đã được đánh_giá loại đạt tính từ_đầu khóa học . " , đúng hay sai ?
 " Kết_quả đánh_giá môn_học giáo_dục quốc_phòng - an_ninh , giáo_dục thể_chất , kỹ_năng mềm được tính vào điểm trung_bình chung học_kỳ và điểm trung_bình chung tích_lũy " , đúng hay sai ?
 " Loại học_lực là căn_cứ để xác_định khối_lượng học_tập sinh_viên được đăng_ký trong học_kỳ kế_tiếp . Trường_hợp loại học_lực của sinh_viên được xác_định vào thời_điểm sau khi sinh_viên đã đăng_ký môn_học , sinh_viên phải rút_bớt môn_học trong giới_hạn khối_lượng quy_định . " , đúng hay sai ?
-" Sinh_viên xếp_loại Xuất_sắc có điểm trung_bình chung tích_lũy từ 3.60 đến 4.00 " , đúng hay sai ?
+" Sinh_viên xếp_loại Xuất_sắc có điểm trung_bình chung tích_lũy từ 3,60 đến 4,00 " , đúng hay sai ?
 " Sinh_viên xếp_loại Yếu có điểm trung_bình chung tích_lũy đạt dưới 2,00 nhưng chưa thuộc trường_hợp bị buộc thôi học . "
 " Chương_trình đào_tạo chuẩn được thiết_kế từ 120 đến 140 tín_chỉ đối_với đào_tạo cử_nhân , 140 đến 160 tín_chỉ đối_với đào_tạo kĩ_sư , 155 đến 175 tín_chỉ đối_với đào_tạo dược_sĩ , 205 đến 225 tín_chỉ đối_với đào_tạo bác_sĩ " , đúng hay sai ?
 PGS. TS Toán_học Nguyễn Sum ( Trường Đại_học Quy_Nhơn ) đã trở_thành một trong hai chủ_nhân mới của Giải_thưởng Tạ Quang Bửu năm 2017 , là nghiên_cứu_sinh từ năm 1992 của trường nào ?
@@ -178,7 +178,7 @@ Nguyên Phó_Giám_đốc Đại_học Quốc_gia Hà_Nội_hiện đang giữ c
 Giám_đốc ĐHQGHN phụ_trách trách những lĩnh_vực công_tác nào sau_đây ?
 Bí_thư Đảng ủy ĐHQGHN hiện_nay là ai ?
 Hiệu_trưởng đầu_tiên của Trường Đại_học Việt Nhật - ĐHQGHN là người nước nào ?
-Tính đến thời_điểm hiện_tại , Trường / Khoa nào trực_thuộc ĐHQGHN có số_lượng Giáo_sư nhiều nhất ?
+Tính đến thời_điểm hiện_tại , Trường nào trực_thuộc ĐHQGHN có số_lượng Giáo_sư nhiều nhất ?
 " Tứ_trụ " của ngành sử_học Việt_Nam đương_đại gồm những_ai ?
 Hiện_nay , ai là Hiệu_trưởng Trường Đại_học Khoa_học Xã_hội và Nhân_văn
 Bộ_trưởng Bộ giáo_Dục và Đào_tạo ( GS. TS Phùng Xuân Nhạ ) hiện_nay đã từng giữ chức_vụ gì trong ĐHQGHN ?
@@ -216,7 +216,7 @@ Vị giám_đốc đầu_tiên của Trường Đại_học Văn_Khoa Hà_Nội 
 GS. Đào Duy Anh - Nhà_sử_học và văn hóa lớn sinh năm bao_nhiêu ?
 Cách đây 40 năm , vị Hiệu_trưởng Trường Đại_học Tổng_hợp Hà_Nội - tiền_thân cơ_bản của Đại_học Quốc_gia hôm_nay là ai ?
 Ai là một trong những người là nhà khảo_cổ_học đầu_tiên tại Nước Việt_Nam Dân_chủ Cộng hòa ?
-MC Lê Anh là giảng_viên của Trường / Khoa nào ?
+MC Lê Anh là giảng_viên của Trường nào ?
 GS. Phan Tống Sơn giảng_dạy ngành nào tại Trường Đại_học Khoa_học Tự_nhiên
 GS. NGƯT Trần Quốc Vượng , cây_đại_thụ của nền sử_học Việt_Nam công_tác tại đơn_vị nào ?
 GS. VS Nguyễn Văn Hiệu như một " tượng_đài khoa học " , thuộc thế_hệ các nhà khoa_học đầu_đàn của nền khoa_học Việt_Nam . Ông nguyên Hiệu_trưởng đầu_tiên đơn_vị nào ?
@@ -239,13 +239,13 @@ Giáo_sư Phùng Xuân Nhạ - nguyên_là Giám_đốc Đại_học Quốc_gia 
 TS. Trần_Đình_Phong , người được nhận giải_thưởng Tạ Quang Bửu năm 2018 là cựu sinh_viên đơn_vị nào của ĐHQGHN ?
 PGS. TS Toán_học Nguyễn Sum ( Trường Đại_học Quy_Nhơn ) là một trong hai chủ_nhân của Giải_thưởng Tạ Quang Bửu năm 2017 . Ông là cựu sinh_viên của đơn_vị nào ?
 Học_sinh Tạ Bá Dũng - lớp 12 , Trường THPT Chuyên_Khoa_học Tự_nhiên , ĐHQGHN đã giành huy_chương gì trong kì_thi Olympic Vật_lí Châu Á lần thứ 18 được tổ_chức tại Yakutsk , Cộng hòa Liên_bang Nga ?
-Đinh Thị Hương_Thảo , 1 trong 10 gương_mặt trẻ tiêu biêu năm 2016 , 2 Huy_chương vàng Quốc_tế là sinh_viên của đơn_vị nào ?
+Đinh Thị Hương_Thảo , 1 trong 10 gương_mặt trẻ tiêu_biểu năm 2016 , 2 Huy_chương vàng Quốc_tế là sinh_viên của đơn_vị nào ?
 Ban_đầu , trường Đại_học Tổng_hợp Hà_Nội có hai khoa là ?
 Trường Đại_học nào được tách thành hai trường là Đại_học Tổng_hợp Hà_Nội và Đại_học Sư_phạm Hà_Nội ?
 Năm 1961 , theo quyết_định của Bộ Giáo_dục , Khoa Tự_nhiên , trường Đại_học Tổng_hợp được tách ra thành hai khoa là :
 Đến năm 1965 , Khoa Toán – Lý của trường Đại_học Tổng_hợp Hà_Nội được chia tách để thành_lập 2 khoa là ?
 Một lượng lớn cán_bộ của Bộ_môn Tin_học – Đại_học Tổng_hợp Hà_Nội được điều_động sang công_tác tại khoa Công_nghệ Thông_tin – Đại_học Tổng_hợp Hà_Nội vào năm nào ?
-Tên tiếng Anh của ĐHQGHN là gì ?
+Tên Tiếng_Anh của ĐHQGHN là gì ?
 Tên viết tắt của ĐHQGHN là gì ?
 Giám_đốc và các Phó_Giám_đốc ĐHQGHN do ai bổ_nhiệm , miễn_nhiệm
 Tiền_thân của ĐHQGHN là trường nào ?
